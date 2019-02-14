@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="462824" started-at="2018-12-27T12:17:04Z" finished-at="2018-12-27T12:24:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="462824" started-at="2018-12-27T12:17:04Z" finished-at="2018-12-27T12:24:46Z">
+      <class name="core.AckoAutomation3">
+        <test-method status="PASS" signature="setup()[pri:0, instance:core.AckoAutomation3@7cd62f43]" name="setup" is-config="true" duration-ms="7740" started-at="2018-12-27T12:17:04Z" finished-at="2018-12-27T12:17:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getDiesel()[pri:1, instance:core.AckoAutomation3@7cd62f43]" name="getDiesel" duration-ms="438017" started-at="2018-12-27T12:17:11Z" finished-at="2018-12-27T12:24:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDiesel -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:core.AckoAutomation3@7cd62f43]" name="teardown" is-config="true" duration-ms="17034" started-at="2018-12-27T12:24:29Z" finished-at="2018-12-27T12:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- core.AckoAutomation3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
